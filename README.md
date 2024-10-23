@@ -1,6 +1,6 @@
 ## Description
 
-These python scripts allow you to do the calibration required for the holomat project. They do camera calibration using a charuco board and 4 point calibration using openCV contours.
+These python scripts allow you to do the calibration required for the hologesutre project. They do camera calibration using a charuco board and 4 point calibration using openCV contours.
 
 ## Installation
 
