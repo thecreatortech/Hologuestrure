@@ -14,14 +14,6 @@ pip install opencv-python mediapipe numpy
 pip install opencv-contrib-python
 ```
 
-## Usage
-
-I strongly suggest following along with my video on patreon as there is a lot of debugging required to run this.
-
-```
-python calibration.py
-```
-
 ## Requirements
 
 Python 3.6 or later
